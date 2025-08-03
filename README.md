@@ -13,11 +13,18 @@
 
 ---
 
+> [!NOTE]  
+> 你当前正在观看BILIBILIAS v2.x 的分支代码，v3.x 重构版本正在进行，v2.x会继续更新和维护，直到未来V3.x完全替代。
+> 可通过 [Compose](https://github.com/1250422131/bilibilias/tree/compose) 分支查看开发进展。
+> 对v2.x提交的代码会被逐步迁移到v3.x，因此可以放心继续参与贡献。
+
+
 **Languages:**
 
 - [English (United States)](./README-en_US.md)
 - 简体中文
-- [繁体中文(中国台湾省)](./README-zh_TW.md)
+- [繁体中文](./README-zh_Hant.md)
+
 
 ## 简介
 
@@ -28,6 +35,12 @@
 UP主可以下载一些剪辑素材，来做视频
 
 项目特殊性，随时可能停止运维。
+
+## 特别的
+
+BILIBILIAS 是由开源社区开发的 B 站外置工具:
+
+BILIBILIAS没有得到哔哩哔哩许可，哔哩哔哩对用户使用此软件而产生的一切后果概不负责。
 
 ## 支持的功能
 
@@ -83,8 +96,8 @@ UP主可以下载一些剪辑素材，来做视频
 | Android | [Release](https://github.com/1250422131/bilibilias/releases) | [官网](https://api.misakamoe.com/app/) |
 
 [<img src="https://fdroid.gitlab.io/artwork/badge/get-it-on-zh-hans.png"
-    alt="下载应用，请到 F-Droid"
-    height="80">](https://f-droid.org/packages/com.imcys.bilibilias)
+alt="下载应用，请到 F-Droid"
+height="80">](https://f-droid.org/packages/com.imcys.bilibilias)
 
 ## 🔭最近关注
 
@@ -104,3 +117,15 @@ UP主可以下载一些剪辑素材，来做视频
 
 反馈频道：[QQ频道](https://pd.qq.com/s/ecbbiumzr)
 
+## 特别感谢
+
+感谢 **[JetBrains](https://www.jetbrains.com/)** 对本项目的支持，本项目的CDN加速和安全防护由腾讯 **[EdgeOne](https://edgeone.ai/?from=github)** 赞助，此项目在 **[OSS许可证](https://sales.jetbrains.com/hc/zh-cn/articles/360016581839-%E4%BB%80%E4%B9%88%E6%98%AF-OSS-%E5%BC%80%E5%8F%91%E8%AE%B8%E5%8F%AF%E8%AF%81-%E8%B0%81%E5%8F%AF%E4%BB%A5%E8%8E%B7%E5%BE%97)** 下开发，并且遵守相关政策。
+
+
+此项目的Kotlin技术采用IDEA开发和学习，再次感谢Jetbrains带来无与伦比的开发体验。
+
+![Toolbox App logo](https://resources.jetbrains.com/storage/products/company/brand/logos/Toolbox.svg)
+![JetBrains Logo (Main) logo](https://resources.jetbrains.com/storage/products/company/brand/logos/jb_beam.svg)
+[<img src="https://edgeone.ai/_next/static/media/headLogo.daeb48ad.png?auto=format&fit=max&w=64"
+alt="EdgeOne"
+height="60">](https://edgeone.ai/?from=github)
